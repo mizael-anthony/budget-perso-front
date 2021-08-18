@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "kalaky",
+    "slug": "kalaky",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "kalaky"
+}
